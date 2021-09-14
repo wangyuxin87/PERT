@@ -1,2 +1,2 @@
 # PERT
-A progressive region-based scene text eraser. A simpler and better baseline.
+A Progressively Region-based Network for Scene Text Removale.
