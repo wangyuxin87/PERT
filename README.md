@@ -23,6 +23,12 @@ The offical implementation of [What is the Real Need for Scene Text Removal? Exp
 
 
 # Preparetion
+
+## Requirement
+
+python=3.6.9 & torch==1.8.1+cu111 \
+It is best to use our provided Dockerfile for quick start.
+
 ## Dataset
 
 Download [SCUT-EnsText](https://github.com/lcy0604/EraseNet and put it into your folder.
