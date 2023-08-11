@@ -1,5 +1,5 @@
 # PERT
-The offical implementation of [What is the Real Need for Scene Text Removal? Exploring the Background Integrity and Erasure Exhaustivity Properties](https://ieeexplore.ieee.org/document/10214243) (TIP2023). 
+The offical implementation of PERT: [What is the Real Need for Scene Text Removal? Exploring the Background Integrity and Erasure Exhaustivity Properties](https://ieeexplore.ieee.org/document/10214243) (TIP2023). PERT progressively erases the text region with a balanced multi-stage erasure and Region-base Modification Strategy. The model is simple to implementation and can be easily developed.
 
 # News
 10/8 The model is released \
@@ -27,11 +27,11 @@ The offical implementation of [What is the Real Need for Scene Text Removal? Exp
 ## Requirement
 
 python=3.6.9 & torch==1.8.1+cu111 \
-It is best to use our provided Dockerfile for quick start.
+It is the best to use our provided Dockerfile for quick start.
 
 ## Dataset
 
-Download [SCUT-EnsText](https://github.com/lcy0604/EraseNet and put it into your folder.
+Download [SCUT-EnsText](https://github.com/lcy0604/EraseNet) and put it into your folder.
 
 ## Trained model download
 
