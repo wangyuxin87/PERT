@@ -1,5 +1,5 @@
 # PERT
-The offical implementation of PERT: [What is the Real Need for Scene Text Removal? Exploring the Background Integrity and Erasure Exhaustivity Properties](https://ieeexplore.ieee.org/document/10214243) (TIP2023). PERT progressively erases the text region with a balanced multi-stage erasure and Region-base Modification Strategy. The model is simple to implementation and can be easily developed.
+The offical implementation of PERT: [What is the Real Need for Scene Text Removal? Exploring the Background Integrity and Erasure Exhaustivity Properties](https://ieeexplore.ieee.org/document/10214243) (TIP2023). PERT progressively erases the text region with a balanced multi-stage erasure and Region-base Modification Strategy. The model is simple to be implemented and can be easily developed.
 
 # News
 10/8 The model is released \
